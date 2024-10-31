@@ -1,0 +1,19 @@
+<svg id="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128" viewBox="0 0 128 128">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #131740;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <rect id="base" class="cls-1" width="128" height="128" rx="16" ry="16"/>
+  <image id="moon-fill" x="79" y="81" width="20" height="20" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAABHElEQVQ4jaWUPUoEQRBGnwZGiyhqtqCewcQf8AwuJqKhy17BPY8KhgbKegQT7+AGRv6Agfknn/Rg70zPzvTsg4KG6n7MVBW1JIkEPeAcOAG2gAHwlrpYwcJSDCV96p/jxJ3aiBMrkq41y0OOrCy8VZXTrsJhQmZ2c4VuihvwCmwmSrwOfLdqRmA5dDMlM6s5MoJwMCe/30W4Nyd/kSt0DZOTHXEIPOd8YRN3QL+lr+9Wv9eMTMxU0lHDyBxIevFh0kJYcB+G3fO5Jmlb0pmkx5CfWDjKEDYxKgZ7Cmy0LXwNX8COm/IDXC0oM+M/V1TUmwV+1Vsqub66SL2l/LYiLOKytGDr+AhbqnYfxtEL3fdIxXPq81PI+c7sO4lfhi8W+rqiUSAAAAAASUVORK5CYII="/>
+  <path class="cls-2" d="M37,14H91a23,23,0,0,1,0,46H37A23,23,0,0,1,37,14Zm0,4H91a19,19,0,0,1,0,38H37A19,19,0,0,1,37,18Z"/>
+  <path id="Rectangle_1_copy" data-name="Rectangle 1 copy" class="cls-2" d="M37,68H91a23,23,0,0,1,0,46H37A23,23,0,0,1,37,68Zm0,4H91a19,19,0,0,1,0,38H37A19,19,0,0,1,37,72Z"/>
+  <image id="sun-fill" x="27" y="26" width="22" height="22" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAABMElEQVQ4jc1VsW7CMBB9iVoxZGi6e0RMfAUjH9O9P9QParpYKhsbC6wg8SpXz+AYOzFIIJ50inJ593K2784VSRTCE98BbMfIdanqtYiF5wDMDTpGsWe4rZDNSW5I/pI0gd9bK6siv1HMRhr//hTB4ZtknRCPrRaXcUIx0Yi40HtD8pNkR3Iv6+RrxFkoprfKXBbuOSVpmYcVB6nV5ZbYjIh62CDznuXK7QPArKAaZuJeIpNxV5CtR5fScKUTtp7vqj2A18IaPgCYqDNPWqmtqAoFB/GiLD12+qu96KQ8bDRHThlvA/OEryuSC7lnrXuV28Ma5C4tPTaEqsRkyw6hsNxaAG8AVgCWAI7RIfXqVDiKu1Js6z/EV5MrMXeq68TpD11NbtA70Z+c8BCe4M4D8Af+rw45ZcNEgQAAAABJRU5ErkJggg=="/>
+</svg>

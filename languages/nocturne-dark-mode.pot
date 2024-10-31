@@ -1,0 +1,1051 @@
+# Copyright (C) 2024 nocturne-dark-mode
+# This file is distributed under the same license as the nocturne-dark-mode package.
+msgid ""
+msgstr ""
+"Project-Id-Version: nocturne-dark-mode\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: DeoThemes <hello@deothemes.com>\n"
+"Last-Translator: Alexander Samokhin <hello@deothemes.com>\n"
+"POT-Creation-Date: 2024-10-24 02:58+0000\n"
+"Report-Msgid-Bugs-To: https://deothemes/contact/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-happy-addons.php:67, wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-happy-addons.php:348, wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-hfe.php:67, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:69, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:472, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:497, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:522, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:853, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:928, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:953, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:978, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1161, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1434, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1625, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1704, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1854, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2049, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2234, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2379, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2465, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2629, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3115, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3352, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3531, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3663, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3777, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3889, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4293, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4694, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5074, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5251, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5473, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5740, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5873, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5972, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6267, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6785, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6944, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:7102, wp-content/plugins/nocturne-dark-mode/includes/customizer/customizer.php:41, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:261, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:347, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:393, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:418, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:443, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:543, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:568, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:647, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:697, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:774, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:856, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:895, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:958, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:997, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1084, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1122, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1184, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1233, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1308, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1421, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1535, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1621, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1707, wp-content/plugins/nocturne-dark-mode/widgets/nocturne-switcher.php:324
+msgid "Dark Mode"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-happy-addons.php:74, wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-hfe.php:74, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:76
+msgid "Main Menu"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-happy-addons.php:86, wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-happy-addons.php:168, wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-happy-addons.php:391, wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-happy-addons.php:499, wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-hfe.php:86, wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-hfe.php:258, wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-hfe.php:436, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:88, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:242, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:400, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:553, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:702, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:780, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1083, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1348, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1451, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1505, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1557, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1964, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2253, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2482, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2534, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2738, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3229, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3409, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4118, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4567, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4737, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4886, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5028, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5897, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6029, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6109, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6162, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6345, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6735, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6810, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6969, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:7116, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:452, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1006, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1544, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1716, wp-content/plugins/nocturne-dark-mode/widgets/nocturne-image.php:432, wp-content/plugins/nocturne-dark-mode/widgets/nocturne-switcher.php:230, wp-content/plugins/nocturne-dark-mode/widgets/nocturne-switcher.php:335
+msgid "Normal"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-happy-addons.php:93, wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-happy-addons.php:115, wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-happy-addons.php:137, wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-happy-addons.php:186, wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-hfe.php:443, wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-hfe.php:477, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:116, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:407, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:439, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:787, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:818, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:868, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:889, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:910, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1396, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1458, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1479, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1512, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1532, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1564, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1584, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1607, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1719, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1733, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1757, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1789, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1824, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1872, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1892, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1923, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1943, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2070, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2090, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2121, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2141, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2340, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2360, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2431, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3546, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3698, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3760, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3801, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3829, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3849, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3869, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3924, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3944, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3975, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3999, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4026, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4061, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4229, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5128, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5149, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5212, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5388, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5409, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5613, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5626, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5650, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5690, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5711, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5793, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5816, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6116, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6136, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6250, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6301, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6321, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6374, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6394, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6413, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6453, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6495, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6515, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6534, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6572, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6617, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6681, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6713, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6742, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6762, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:400, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:425, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:550, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:863, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1129, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1723, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1744
+msgid "Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-happy-addons.php:108, wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-happy-addons.php:201, wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-happy-addons.php:530, wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-hfe.php:122, wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-hfe.php:300, wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-hfe.php:470, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:109, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:276, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:432, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:733, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:811, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1102, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1386, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1472, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1525, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1577, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2002, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2291, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2502, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2558, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2843, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3273, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3440, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4167, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4625, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4802, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4928, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5047, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5933, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6063, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6129, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6201, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6755, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6846, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:7005, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:7165, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:494, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1040, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1578, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1737, wp-content/plugins/nocturne-dark-mode/widgets/nocturne-image.php:466, wp-content/plugins/nocturne-dark-mode/widgets/nocturne-switcher.php:276, wp-content/plugins/nocturne-dark-mode/widgets/nocturne-switcher.php:381
+msgid "Hover"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-happy-addons.php:130, wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-hfe.php:186, wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-hfe.php:342, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:172, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:314, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1121, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3041, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6469, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:7213
+msgid "Active"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-happy-addons.php:155, wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-hfe.php:245, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:229
+msgid "Dropdown"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-happy-addons.php:176, wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-happy-addons.php:222, wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-happy-addons.php:274, wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-happy-addons.php:330, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5019, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6290, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6360, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6484, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6606, wp-content/plugins/nocturne-dark-mode/includes/customizer/customizer.php:105
+msgid "Background"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-happy-addons.php:208, wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-happy-addons.php:363, wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-happy-addons.php:477, wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-happy-addons.php:506, wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-happy-addons.php:537, wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-hfe.php:93, wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-hfe.php:129, wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-hfe.php:193, wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-hfe.php:265, wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-hfe.php:307, wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-hfe.php:349, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:95, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:134, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:179, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:249, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:283, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:321, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:479, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:504, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:560, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:627, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:709, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:740, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:935, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:960, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1047, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1090, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1109, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1128, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1355, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1686, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2172, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2690, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2765, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2814, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2871, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2921, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3161, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3181, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3236, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3280, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3332, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3367, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3387, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3416, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3447, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3566, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3641, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3740, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4128, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4177, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4266, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4408, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4441, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4507, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4540, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4577, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4635, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4893, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4935, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4999, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5192, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5297, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5317, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5337, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5853, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5987, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6007, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6049, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6083, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6817, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6853, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6976, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:7012, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:7122, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:7170, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:7218, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:468, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1026, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1060, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1191, wp-content/plugins/nocturne-dark-mode/widgets/nocturne-image.php:603
+msgid "Text Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-happy-addons.php:236, wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-hfe.php:396, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:358
+msgid "Box Shadow"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-happy-addons.php:252, wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-hfe.php:406, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:212, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1640, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4073
+msgid "Divider Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-happy-addons.php:264
+msgid "Responsive Navigation"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-happy-addons.php:284, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1058, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1664, wp-content/plugins/nocturne-dark-mode/includes/customizer/customizer.php:247, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1013, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1047, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1365, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1478, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1563, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1597, wp-content/plugins/nocturne-dark-mode/widgets/nocturne-switcher.php:249, wp-content/plugins/nocturne-dark-mode/widgets/nocturne-switcher.php:295, wp-content/plugins/nocturne-dark-mode/widgets/nocturne-switcher.php:354, wp-content/plugins/nocturne-dark-mode/widgets/nocturne-switcher.php:400
+msgid "Icon Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-happy-addons.php:296, wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-happy-addons.php:559, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:590, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:656, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1005, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1179, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1990, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2028, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2203, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2279, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2317, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2489, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2509, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2714, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2779, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2826, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2885, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2933, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3205, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3306, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3427, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3458, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3678, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4154, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4203, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4609, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4667, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4915, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4957, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5100, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5277, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5357, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5452, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5499, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6628, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6648, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6880, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:7039, wp-content/plugins/nocturne-dark-mode/includes/customizer/customizer.php:224, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:480, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:704, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1315, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1428, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1640, wp-content/plugins/nocturne-dark-mode/widgets/nocturne-switcher.php:262, wp-content/plugins/nocturne-dark-mode/widgets/nocturne-switcher.php:308, wp-content/plugins/nocturne-dark-mode/widgets/nocturne-switcher.php:367, wp-content/plugins/nocturne-dark-mode/widgets/nocturne-switcher.php:413
+msgid "Border Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-happy-addons.php:308
+msgid "Seperator Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-happy-addons.php:320
+msgid "Responsive Navigation Menu Item"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-happy-addons.php:355, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3172
+msgid "Fields"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-happy-addons.php:375
+msgid "Placeholder Text Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-happy-addons.php:414, wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-happy-addons.php:454, wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-happy-addons.php:517, wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-happy-addons.php:548, wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-hfe.php:105, wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-hfe.php:145, wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-hfe.php:206, wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-hfe.php:282, wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-hfe.php:324, wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-hfe.php:365, wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-hfe.php:456, wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-hfe.php:490, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:261, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:298, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:333, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:419, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:451, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:575, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:641, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:720, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:752, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:798, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:830, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:993, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1036, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1370, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1410, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1777, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1979, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2017, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2161, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2192, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2268, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2306, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2394, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2701, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2753, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2803, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2858, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2909, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3192, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3904, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3964, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4049, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4096, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4255, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4744, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4809, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4904, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4946, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4988, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5089, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5181, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5266, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5441, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5488, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5519, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5755, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6036, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6070, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6169, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6208, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6659, wp-content/plugins/nocturne-dark-mode/includes/customizer/customizer.php:201, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1141, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1551, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1585, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1628, wp-content/plugins/nocturne-dark-mode/widgets/nocturne-image.php:618, wp-content/plugins/nocturne-dark-mode/widgets/nocturne-switcher.php:237, wp-content/plugins/nocturne-dark-mode/widgets/nocturne-switcher.php:283, wp-content/plugins/nocturne-dark-mode/widgets/nocturne-switcher.php:342, wp-content/plugins/nocturne-dark-mode/widgets/nocturne-switcher.php:388
+msgid "Background Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-happy-addons.php:428, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:620
+msgid "Focus"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-happy-addons.php:468
+msgid "Form Labels"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-happy-addons.php:488
+msgid "Submit Button"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-hfe.php:164, wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-hfe.php:222
+msgid "Link Hover Effect Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-hfe.php:423
+msgid "Menu Trigger & Close Icon"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/class-nocturne-hfe.php:506
+msgid "Close Icon Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:152, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:191
+msgid "Pointer Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:366
+msgid "Divider"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:385
+msgid "Toggle Button"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:529
+msgid "Input"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:537, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5035, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5054
+msgid "Overlay Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:688, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1337, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3218, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3398, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4107, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4555, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4869, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6019, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6792, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6951
+msgid "Button"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:769, wp-content/plugins/nocturne-dark-mode/widgets/nocturne-switcher.php:120, wp-content/plugins/nocturne-dark-mode/widgets/nocturne-switcher.php:168
+msgid "Toggle"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:860, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1494, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1864, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2059, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2331, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3792, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3915, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4398, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4497, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4709, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5328, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5564, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6672
+msgid "Title"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:880
+msgid "List Item"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:901
+msgid "Bullet"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:985, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1954, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2244, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3751, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6152
+msgid "Box"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1016
+msgid "Loader Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1027, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3896, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5510
+msgid "Header"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1073, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1632, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3784
+msgid "List"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1142
+msgid "Marker Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1168, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2472, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3670, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5348, wp-content/plugins/nocturne-dark-mode/widgets/nocturne-image.php:113, wp-content/plugins/nocturne-dark-mode/widgets/nocturne-image.php:276
+msgid "Image"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1236, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5999
+msgid "Author"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1245, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5553
+msgid "Name Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1291
+msgid "Biography Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1441, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3152, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5804
+msgid "Label"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1546
+msgid "Arrow"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1598
+msgid "Borders"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1655, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4352, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5604, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6405, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6526
+msgid "Icon"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1677, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5544, wp-content/plugins/nocturne-dark-mode/includes/customizer/customizer.php:151
+msgid "Text"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1711
+msgid "Progress Indicator"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1748
+msgid "Tracker Background"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1815
+msgid "Percentage"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1883, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2081, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2351
+msgid "Meta"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1903, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2101, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5530
+msgid "Separator Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1914, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2112
+msgid "Excerpt"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:1934, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2132
+msgid "Read More"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2152
+msgid "Badge"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2183
+msgid "Card"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2214
+msgid "Meta Border Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2386
+msgid "Item Overlay"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2405, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2595, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4758, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4823, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5573, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:716, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1103, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1165, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1215, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1265, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1341, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1453, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1652
+msgid "Title Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2419
+msgid "Filter Bar"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2445, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5160, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5420, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5722, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6692
+msgid "Active Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2523, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2547, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5172
+msgid "Overlay"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2586, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4701, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5288, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5775, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5979, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6704
+msgid "Content"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2609, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4772, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4837, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:728, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1664
+msgid "Description Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2636, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3122
+msgid "Form"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2644
+msgid "Label Text Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2655
+msgid "Mark Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2670
+msgid "Html Field Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2681
+msgid "Field"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2727
+msgid "Buttons"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2745, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2850
+msgid "Next & Submit Button"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2795, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2901
+msgid "Previous Button"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2952, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6906, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:7065
+msgid "Messages"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2961
+msgid "Success Message Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2972, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6915, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:7074
+msgid "Error Message Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2983
+msgid "Inline Message Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:2994
+msgid "Steps"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3009
+msgid "Inactive"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3016, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3048, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3080, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4360, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5904, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5940
+msgid "Primary Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3027, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3059, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3091, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4378, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5916, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5951
+msgid "Secondary Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3073
+msgid "Completed"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3130
+msgid "Links Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3141
+msgid "Links Hover Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3323
+msgid "Logged in Message"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3359
+msgid "Heading"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3378, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3840, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4431, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4530
+msgid "Description"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3472, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5111, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5371, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5673
+msgid "Navigation"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3481
+msgid "Arrows Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3496
+msgid "Dots Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3510
+msgid "Active Dot Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3538
+msgid "Shape"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3557
+msgid "Headline"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3585
+msgid "Animated Text"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3594
+msgid "Words Text Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3614
+msgid "Selected Text"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3626
+msgid "Selection Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3689
+msgid "Hotspot"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3709
+msgid "Box Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3731
+msgid "Tooltip"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3820
+msgid "Price"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3860, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6444, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6560
+msgid "Separator"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3935
+msgid "Sub Title"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3955
+msgid "Pricing"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:3986
+msgid "Original Price"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4014
+msgid "Period"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4040
+msgid "Features"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4087
+msgid "Footer"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4217
+msgid "Additional Info"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4243, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4980
+msgid "Ribbon"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4300
+msgid "Front"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4317, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4473
+msgid "Background Overlay"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4455
+msgid "Back"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4727, wp-content/plugins/nocturne-dark-mode/widgets/nocturne-switcher.php:219
+msgid "Colors"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4786, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:4851
+msgid "Button Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5081, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5258, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5480
+msgid "Slides"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5119, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5379, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5681
+msgid "Arrows"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5140, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5400, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5702
+msgid "Pagination"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5203, wp-content/plugins/nocturne-dark-mode/widgets/nocturne-image.php:242
+msgid "Lightbox"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5223
+msgid "UI Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5234
+msgid "UI Hover Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5308
+msgid "Name"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5432
+msgid "Bubble"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5584
+msgid "Review"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5593, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1290, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1516
+msgid "Content Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5617
+msgid "Official"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5618
+msgid "Custom"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5641
+msgid "Rating"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5662, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:875
+msgid "Unmarked Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5747
+msgid "Boxes"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5784
+msgid "Digits"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5841
+msgid "Message"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:5880
+msgid "Share Buttons"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6099, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:315, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:375
+msgid "Border"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6242
+msgid "Quote"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6274
+msgid "Top Bar"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6282
+msgid "Playlist Name"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6312
+msgid "Video Count"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6334
+msgid "Videos"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6352, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6476
+msgid "Item"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6386, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6507
+msgid "Duration"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6429, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6550
+msgctxt "Text Shadow Control"
+msgid "Shadow"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6589
+msgid "Sections"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6598
+msgid "Section"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6639
+msgid "Tabs"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6724
+msgid "Show More"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:6926, wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:7085
+msgid "Payment Not Connected Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/compatibility/pro/class-nocturne-elementor-pro.php:7109
+msgid "Items"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/customizer/customizer.php:49
+msgid "Site Colors"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/customizer/customizer.php:66
+msgid "Activate dark mode as default"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/customizer/customizer.php:85
+msgid "Dark Mode Site Colors"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/customizer/customizer.php:128
+msgid "Headings"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/customizer/customizer.php:160
+msgid "Floating Toggle"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/customizer/customizer.php:178
+msgid "Floating toggle"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/customizer/customizer.php:179
+msgid "Requires page reload"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/customizer/customizer.php:270
+msgid "Dark Mode Background Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/customizer/customizer.php:293
+msgid "Dark Mode Icon Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/customizer/customizer.php:313
+msgid "Toggle bottom offset (px)"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/includes/customizer/customizer.php:332
+msgid "Toggle right offset (px)"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:268
+msgid "Shape Divider Top Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:282
+msgid "Shape Divider Bottom Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:327
+msgid "Class"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:575, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:601, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:666
+msgid "Background color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:594, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:748, wp-content/plugins/nocturne-dark-mode/widgets/nocturne-switcher.php:137
+msgid "Style"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:620, wp-content/plugins/nocturne-dark-mode/widgets/nocturne-image.php:537
+msgid "Border Radius"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:632
+msgid "Padding"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:654, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:781
+msgid "Icon color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:678
+msgid "Border color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:793
+msgid "Base color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:810
+msgid "Title color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:822
+msgid "Description color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:902
+msgid "Arrow Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:914
+msgid "Dot Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:926
+msgid "Dot Active Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:938, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:965
+msgid "Image Border Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:977
+msgid "Caption Text Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1091
+msgid "Number Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1153
+msgid "Inner Text Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1203
+msgid "Name Text Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1240
+msgid "Tabs Border Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1252
+msgid "Tabs Background Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1277, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1353, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1466
+msgid "Title Active Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1329, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1441
+msgid "Title Background Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1378, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1491
+msgid "Icon Active Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1391, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1504
+msgid "Content Background Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1403
+msgid "Content Text Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1676
+msgid "Dismiss Icon Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1688
+msgid "Dismiss Icon Hover Color"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1800, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1801, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1839, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1942, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1966, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1991
+msgid "Nocturne"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1845
+msgid "Made by "
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1846
+msgid "DeoThemes"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1857
+msgid "Getting Started"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1859
+msgid "Nocturne is now installed and ready to use. Get ready to build something beautiful. To get started check the video below. We hope you enjoy it!"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1864
+msgid "Try Pro"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1866
+msgid "Nocturne Pro is fully integrated with Elementor Pro and comes with additional toggle variations."
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1869
+msgid "Upgrade Now!"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1884
+msgid "Useful Links"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1887
+msgid "Documentation"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1890
+msgid "Rate us ★★★★★"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1893
+msgid "Follow us"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1919
+msgid "Nocturne Widgets"
+msgstr ""
+
+#. translators: 1: Plugin name 2: Elementor
+#: wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1941
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1943, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1967
+msgid "Elementor"
+msgstr ""
+
+#. translators: 1: Plugin name 2: Elementor 3: Required Elementor version
+#. translators: 1: Plugin name 2: PHP 3: Required PHP version
+#: wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1965, wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1990
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/nocturne-dark-mode.php:1992
+msgid "PHP"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/widgets/nocturne-image.php:54
+msgid "Dark Mode Image"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/widgets/nocturne-image.php:120
+msgid "Choose Image"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/widgets/nocturne-image.php:134
+msgid "Choose Dark Mode Image"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/widgets/nocturne-image.php:157, wp-content/plugins/nocturne-dark-mode/widgets/nocturne-image.php:573
+msgid "Alignment"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/widgets/nocturne-image.php:161, wp-content/plugins/nocturne-dark-mode/widgets/nocturne-image.php:577
+msgid "Left"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/widgets/nocturne-image.php:165, wp-content/plugins/nocturne-dark-mode/widgets/nocturne-image.php:581
+msgid "Center"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/widgets/nocturne-image.php:169, wp-content/plugins/nocturne-dark-mode/widgets/nocturne-image.php:585
+msgid "Right"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/widgets/nocturne-image.php:182, wp-content/plugins/nocturne-dark-mode/widgets/nocturne-image.php:562
+msgid "Caption"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/widgets/nocturne-image.php:185, wp-content/plugins/nocturne-dark-mode/widgets/nocturne-image.php:216
+msgid "None"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/widgets/nocturne-image.php:186
+msgid "Attachment Caption"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/widgets/nocturne-image.php:187, wp-content/plugins/nocturne-dark-mode/widgets/nocturne-image.php:196
+msgid "Custom Caption"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/widgets/nocturne-image.php:199
+msgid "Enter your image caption"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/widgets/nocturne-image.php:212, wp-content/plugins/nocturne-dark-mode/widgets/nocturne-image.php:226
+msgid "Link"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/widgets/nocturne-image.php:217
+msgid "Media File"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/widgets/nocturne-image.php:218
+msgid "Custom URL"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/widgets/nocturne-image.php:231
+msgid "https://your-link.com"
+msgstr ""
+
+#. translators: 1: Link open tag, 2: Link close tag.
+#: wp-content/plugins/nocturne-dark-mode/widgets/nocturne-image.php:246
+msgid "Manage your site’s lightbox settings in the %1$sLightbox panel%2$s."
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/widgets/nocturne-image.php:252, wp-content/plugins/nocturne-dark-mode/widgets/nocturne-image.php:382
+msgid "Default"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/widgets/nocturne-image.php:253
+msgid "Yes"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/widgets/nocturne-image.php:254
+msgid "No"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/widgets/nocturne-image.php:265
+msgid "View"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/widgets/nocturne-image.php:284
+msgid "Width"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/widgets/nocturne-image.php:319
+msgid "Max Width"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/widgets/nocturne-image.php:354
+msgid "Height"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/widgets/nocturne-image.php:376
+msgid "Object Fit"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/widgets/nocturne-image.php:383
+msgid "Fill"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/widgets/nocturne-image.php:384
+msgid "Cover"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/widgets/nocturne-image.php:385
+msgid "Contain"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/widgets/nocturne-image.php:397
+msgid "Object Position"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/widgets/nocturne-image.php:400
+msgid "Center Center"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/widgets/nocturne-image.php:401
+msgid "Center Left"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/widgets/nocturne-image.php:402
+msgid "Center Right"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/widgets/nocturne-image.php:403
+msgid "Top Center"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/widgets/nocturne-image.php:404
+msgid "Top Left"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/widgets/nocturne-image.php:405
+msgid "Top Right"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/widgets/nocturne-image.php:406
+msgid "Bottom Center"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/widgets/nocturne-image.php:407
+msgid "Bottom Left"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/widgets/nocturne-image.php:408
+msgid "Bottom Right"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/widgets/nocturne-image.php:439, wp-content/plugins/nocturne-dark-mode/widgets/nocturne-image.php:473
+msgid "Opacity"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/widgets/nocturne-image.php:499
+msgid "Transition Duration"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/widgets/nocturne-image.php:516
+msgid "Hover Animation"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/widgets/nocturne-image.php:589
+msgid "Justified"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/widgets/nocturne-image.php:648
+msgid "Spacing"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/widgets/nocturne-switcher.php:40
+msgid "Dark Mode Switcher"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/widgets/nocturne-switcher.php:126
+msgid "Style 1"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/widgets/nocturne-switcher.php:130
+msgid "Style 2"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/widgets/nocturne-switcher.php:131
+msgid "Style 3"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/widgets/nocturne-switcher.php:150
+msgid "More styles available in Pro!"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/widgets/nocturne-switcher.php:150
+msgid "<a href=\"%s\" target=\"_blank\">Upgrade Now</a>."
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/widgets/nocturne-switcher.php:176
+msgid "Base Size"
+msgstr ""
+
+#: wp-content/plugins/nocturne-dark-mode/widgets/nocturne-switcher.php:198
+msgid "Icon Size"
+msgstr ""

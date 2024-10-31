@@ -1,0 +1,153 @@
+/* Admin Styles
+-------------------------------------------------------*/
+.appearance_page_nocturne-theme #wpcontent,
+.toplevel_page_nocturne #wpcontent {
+  padding: 0;
+}
+
+.nocturne-page-header {
+  padding: 10px 20px;
+  height: 50px;
+  background-color: #fff;
+}
+
+.nocturne-page-header__container {
+  margin: 0 auto;
+  height: 100%;
+  max-width: 1140px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.nocturne-page-header__branding {
+  display: flex;
+  align-items: center;
+}
+
+.nocturne-page-header__logo {
+  vertical-align: middle;
+  max-width: 180px;
+}
+
+.nocturne-theme-version {
+  background-color: #edf0f0;
+  padding: 3px 5px;
+  border-radius: 5px;
+  margin-left: 10px;
+}
+
+.nocturne-page-header__tagline-text a {
+  text-decoration: none;
+}
+
+/* Content */
+.nocturne-grid {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: -12px;
+  margin-right: -12px;
+}
+
+.nocturne-grid-content {
+  margin-bottom: 24px;
+}
+
+.nocturne-grid-content,
+.nocturne-grid-sidebar {
+  flex: 1 0 0%;
+  max-width: 100%;
+  padding: 0 12px;
+}
+
+@media screen and (min-width: 783px) {
+  .nocturne-grid-sidebar {
+    max-width: 25%;
+    flex: 0 0 25%;
+    padding: 0 12px;
+  }
+}
+
+.nocturne-widget {
+  background-color: #fff;
+  padding: 24px;
+  margin-bottom: 24px;
+}
+
+.nocturne-widget-title {
+  margin-top: 0;
+  margin-bottom: 24px;
+}
+
+.nocturne-section {
+  padding-top: 10px;
+  padding-bottom: 32px;
+}
+
+/* Container
+-------------------------------------------------------*/
+.nocturne-container {
+  max-width: 1140px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: 25px auto 20px;
+}
+
+.nocturne-container .nocturne-title {
+  font-size: 1.5rem;
+  line-height: 1.2;
+  padding: 0;
+}
+
+.nocturne-container .nocturne-section-title {
+  font-size: 1.25rem;
+  margin-top: 0.5em;
+  margin-bottom: 0;
+  padding: 0;
+}
+
+.nocturne-text {
+  font-size: 1.1875rem;
+  margin-top: 0.5em;
+}
+
+.nocturne-body {
+  background-color: #fff;
+  padding: 40px;
+}
+
+.nocturne-body ol {
+  font-size: 0.9375rem;
+}
+
+.nocturne-body iframe {
+  max-width: 100%;
+  margin-top: 16px;
+}
+
+.nocturne-body h3 {
+  margin-top: 1.5em;
+}
+
+.nocturne-intro-text {
+  font-size: 1.1875rem;
+}
+
+.nocturne-list {
+  line-height: 1.5;
+}
+
+/* Customizer
+-------------------------------------------------------*/
+.nocturne-customizer-title {
+  padding-bottom: 10px;
+  border-bottom: 1px solid #dcdcde;
+  margin-bottom: 6px;
+  margin-top: 8px;
+}
+
+.nocturne-upgrade-notice {
+  background: #eef5f9;
+  padding: 24px;
+  border-radius: 8px;
+}

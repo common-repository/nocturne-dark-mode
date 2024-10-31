@@ -1,0 +1,60 @@
+/* @tailwind base; */
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --tw-translate-x: 0;
+  --tw-translate-y: 0;
+  --tw-rotate: 0;
+  --tw-skew-x: 0;
+  --tw-skew-y: 0;
+  --tw-scale-x: 1;
+  --tw-scale-y: 1;
+}
+
+.dark body {
+  background: #000;
+  color: #9c9c9c;
+}
+
+.dark h1,
+.dark h2,
+.dark h3,
+.dark h4,
+.dark h5,
+.dark h6 {
+  color: #fff;
+}
+
+.dark .elementor-background-overlay {
+  --e-bg-lazyload: inherit !important;
+}
+
+.dark .elementor-editor-preview .elementor-background-overlay,
+.dark .elementor-editor-active .elementor-background-overlay {
+  display: none;
+}
+
+.dark .nocturne-dark-mode:before {
+  display: none;
+}
+
+/* Image Widget */
+.dark .elementor-widget-nocturne-image .elementor-widget-container > img:first-child,
+.elementor-widget-nocturne-image .elementor-widget-container > img:last-child {
+  display: none;
+}
+
+.dark .elementor-widget-nocturne-image .elementor-widget-container > img:last-child {
+  display: inline;
+}
+
+/* Prevent dark mode overlay bleeding */
+.nocturne-dark-mode::before {
+  height: calc(100% + 2px);
+  width: calc(100% + 2px);
+  top: -1px;
+  bottom: -1px;
+  left: -1px;
+  right: -1px;
+}

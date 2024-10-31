@@ -1,0 +1,19 @@
+/* Elementor Editor Styles */
+.elementor-element .nocturne-icon:after {
+  content: "NC";
+  position: absolute;
+  top: 0;
+  right: 0;
+  color: #a4afb7;
+  background: transparent;
+  font-size: 10px;
+  font-family: Roboto, Arial, Helvetica, Verdana, sans-serif;
+  padding: 0.2em 0.5em;
+  border-width: 0 0 1px 1px;
+  border-color: #e0e0e0;
+  border-style: solid;
+}
+
+.nocturne-upgrade-notice a {
+  color: var(--e-a-color-info) !important;
+}
